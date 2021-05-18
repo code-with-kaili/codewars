@@ -2,7 +2,7 @@
 
 These are the solutions to the problems I've solved on my [YouTube Channel](https://www.youtube.com/channel/UCswNz8o2CJLKAwgQ-BNg4iw)
 
-| \ Rank | Problem                                                               | Solution                                            |
+| Rank | Problem                                                               | Solution                                            |
 | ------ | --------------------------------------------------------------------- | --------------------------------------------------- |
 | 8 Kyu  | [Even Or Odd](./8-kyu/even-odd/index.md)                              | [Solution](./8-kyu/even-odd/inde.js)                |
 | 6 Kyu  | [Multiples of 3 or 5](./6-kyu/multiple-3-or-5/index.md)               | [Solution](./6-kyu/multiple-3-or-5/inde.js)         |
